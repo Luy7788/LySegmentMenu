@@ -1,4 +1,4 @@
-# LyScrollMenu
+# LySegmentMenu
 Segment+页面滑动
 
 使用方法
