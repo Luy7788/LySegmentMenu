@@ -38,7 +38,7 @@ LySegmentMenu.h
 - (void)LySegmentMenuCurrentView:(UIView *)currentView didSelectItemWithIndex:(NSInteger)index;
 ```
 
- ![image](https://github.com/Super-lying/LyScrollMenu/blob/master/ScreenFlow.gif)
+ ![image](https://github.com/Super-lying/LySegmentMenu/blob/master/2016-08-24%2001.03.13.gif)
 
 
 例子
